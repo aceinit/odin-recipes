@@ -1,2 +1,2 @@
 # odin-recipes
-Simple website for tasty recipes
+Building a simple website for tasty recipes
